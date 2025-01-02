@@ -6,3 +6,6 @@ Admin Live: https://admin-rahul.vercel.app/
 Store Live: https://store-rahul.vercel.app/
 
 Tech Stack: clerk, stripe, prisma, planetscaler, nextjs
+
+# Eslint upgrade cmd
+`npx @eslint/migrate-config .eslintrc.json`
