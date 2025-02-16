@@ -43,9 +43,9 @@ export async function POST(
 
         if (!isArchived) new NextResponse("Archived is required", { status: 400});
 
-        if (!images || !images.length) {
-            return new NextResponse("Image is required", { status: 400});
-        }
+        // if (!images || !images.length) {
+        //     return new NextResponse("Image is required", { status: 400});
+        // }
 
         if (!storeId) {
             return new NextResponse("Store Id is required", { status: 400});

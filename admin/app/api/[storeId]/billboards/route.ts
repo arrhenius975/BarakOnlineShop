@@ -21,9 +21,9 @@ export async function POST(
             return new NextResponse("Label is required", { status: 400});
         }
 
-        if (!imageUrl) {
-            return new NextResponse("Image Url is required", { status: 400});
-        }
+        // if (!imageUrl) {
+        //     return new NextResponse("Image Url is required", { status: 400});
+        // }
 
         if (!storeId) {
             return new NextResponse("Store Id is required", { status: 400});
