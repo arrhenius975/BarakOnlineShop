@@ -1,9 +1,9 @@
 # E-Commerce (Code With Antonio)
 Full Stack E-Commerce + Dashboard &amp; CMS- Next.js 13 App Router, React, Tailwind, Prisma, MySQL
 
-Admin Live: https://admin-rahul.vercel.app/
+Admin Live: 
 
-Store Live: https://store-rahul.vercel.app/
+Store Live: 
 
 Tech Stack: clerk, stripe, prisma, planetscaler, nextjs
 
@@ -12,3 +12,5 @@ Tech Stack: clerk, stripe, prisma, planetscaler, nextjs
 
 # Tailwindcss upgrade & migrate cmd
 `npx @tailwindcss/upgrade@next`
+
+
